@@ -7,7 +7,7 @@ Blog onde programadoras e programadores podem discutir e fazer post sobre os úl
 
 Os Recursos:
 
-Funções de Hashing e JSON Web Tokens
+Funções de Hashing e JSON Web Tokens.
 
 O Objetivo:
 
